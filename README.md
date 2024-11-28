@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      Este proyecto utiliza la **Ley de Benford** para analizar las estadísticas de un jugador de League of Legends y determinar si sus datos siguen la distribución esperada. Si los primeros dígitos de sus estadísticas no siguen la ley, esto podría ser una indicación de comportamientos sospechosos (trolls).
+      Este proyecto utiliza la <strong>Ley de Benford</strong> para analizar las estadísticas de un jugador de League of Legends y determinar si sus datos siguen la distribución esperada. Si los primeros dígitos de sus estadísticas no siguen la ley, esto podría ser una indicación de comportamientos sospechosos (trolls).
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/a8/3f/e3/a83fe3de2ade7fe310f8846090d98db1.gif" width="150" />
